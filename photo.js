@@ -1,5 +1,5 @@
-var photo = [ "photos/1.jpg", "photos/2.jpg", "photos/3.jpg ", "photos/4.jpg", "photos/5.jpg"];
-var imgTag = document.querySelector("img");
+var photo = [ "photos/1.jpg", "photos/2.jpg", "photos/3.jpg ", "photos/4.jpg", "photos/5.jpg","photos/6.jpg", "photos/7.jpg", "photos/8.jpg ", "photos/9.jpg", "photos/10.jpg"];
+var imgTag = document.querySelector("#slider");
 
 
 var count= 0;
