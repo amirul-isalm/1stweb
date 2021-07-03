@@ -1,0 +1,47 @@
+
+button {
+    background-color: green;
+    color: red;
+}
+
+#myname {
+    background-color: rgb(28, 29, 92);
+    font-size: 50px;
+    font-family: Arial-black;
+    color: yellow;
+}
+body{
+    text-align: center;
+    background-color: coral;
+}
+#textpic{
+
+    background-color: red;
+
+    height: 200px;
+   
+}
+#lekha{
+    width: 60%;
+    height: auto;
+    background-color:red;
+    float: left;
+  
+ 
+
+ 
+}
+#pic{
+    width: 160px;
+    height: 160px;
+    background-color: darkkhaki;
+    float: right;
+    margin-right: 320px;
+    border: red solid 20px;
+    border-radius: 200px;
+    overflow: hidden;
+}
+#joker{
+    color: yellow;
+    font-size: 60px;
+}
